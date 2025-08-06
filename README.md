@@ -103,3 +103,6 @@ python convert_dataset.py dataset_coco.json COCO dataset_ail.json AIL
 ## Dependencies
 
 - `ail<version>`: AIL library for image processing
+
+**Link**  
+https://github.com/Zebra-Aurora-Imaging-Library/MdlocrDatasetManipulation_AIL11
